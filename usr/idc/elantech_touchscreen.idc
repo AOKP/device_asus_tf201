@@ -21,9 +21,9 @@
 #
 
 # Basic Parameters
-touch.deviceType = pointer
+touch.deviceType = touchpad
 touch.orientationAware = 1
-touch.gestureMode = spots
+touch.gestureMode = pointer
 device.external = 1
 touch.usingJitterFilter = 1
 
