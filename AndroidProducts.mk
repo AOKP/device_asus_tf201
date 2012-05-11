@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aokp_tf201.mk
+    $(LOCAL_DIR)/full_tf201.mk
