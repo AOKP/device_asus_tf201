@@ -235,9 +235,6 @@ PRODUCT_COPY_FILES += \
 	frameworks/base/data/etc/android.hardware.usb.host.xml:system/etc/permissions/android.hardware.usb.host.xml \
 	packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:system/etc/permissions/android.software.live_wallpaper.xml
 
-PRODUCT_COPY_FILES +=  \
-	$(LOCAL_PATH)/prebuilt/bootanimation.zip:system/media/bootanimation.zip
-
 # Build characteristics setting 
 PRODUCT_CHARACTERISTICS := tablet
 
