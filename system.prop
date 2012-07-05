@@ -1,3 +1,11 @@
 #
 # system.prop for tf201
 #
+
+# hardware info
+ro.device.cpu=1.3GHz NVIDIA Tegra 3 AP30H 
+ro.device.gpu=Kal-El GeForce
+ro.device.rear_cam=8 MP
+ro.device.front_cam=1.2 MP
+ro.device.screen_res=1280x800
+
